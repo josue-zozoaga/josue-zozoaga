@@ -325,6 +325,7 @@ ul#nav li.current a { color: #F06000; }
    border-radius: 3px 0 0 3px;
 }
 
+
 .photoshop {
   	width: 95%;
   	-moz-animation: photoshop 2s ease;
@@ -356,32 +357,32 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 .a {
-  	width: 90%;
+  	width: 75%;
   	-moz-animation: a 2s ease;
   	-webkit-animation: a 2s ease;
 }
 .b {
-  	width: 50%;
+  	width: 85%;
   	-moz-animation: b 2s ease;
   	-webkit-animation: b 2s ease;
 }
 .c {
-  	width: 85%;
+  	width: 75%;
   	-moz-animation: c 2s ease;
   	-webkit-animation: c 2s ease;
 }
 .d {
-  	width: 60%;
+  	width: 75%;
   	-moz-animation: d 2s ease;
   	-webkit-animation: d 2s ease;
 }
 .e {
-  	width: 70%;
+  	width: 75%;
   	-moz-animation: e 2s ease;
   	-webkit-animation: e 2s ease;
 }
 .f {
-  	width: 90%;
+  	width: 63%;
   	-moz-animation: f 2s ease;
   	-webkit-animation: f 2s ease;
 }
@@ -414,27 +415,27 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes a {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes b {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes c {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes d {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes e {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes f {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 63%;  }
 }
 
 
@@ -464,27 +465,27 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes a {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes b {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes c {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes d {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes e {
   0%   { width: 0px;  }
-  100% { width: 80%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes f {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 63%;  }
 }
 
 
